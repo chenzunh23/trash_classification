@@ -1,0 +1,318 @@
+<?xml version="1.0" ?>
+<View>
+  <Header value="Image Annotation For Trash Classification"/>
+  <Header value="Please classify the image, draw the regions, and draw bounding boxes around the trash items."/>
+  <Image name="image" value="$image" zoom="true"/>
+  <PolygonLabels name="polygon" toName="image" showInline="true" required="false" maxUsages="0" strokeWidth="3" pointSize="small" opacity="0.9">
+    <View style="marginRight: 20px">
+      <Header value="Aluminium foil"/>
+      <Label value="Aluminium foil" background="#a32828"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Battery"/>
+      <Label value="Battery" background="#a34228"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Blister pack"/>
+      <Label value="Aluminium blister pack" background="#a35b28"/>
+      <Label value="Carded blister pack" background="#ea8a47"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Bottle"/>
+      <Label value="Other plastic bottle" background="#a37428"/>
+      <Label value="Clear plastic bottle" background="#eaac47"/>
+      <Label value="Glass bottle" background="#ead3ad"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Bottle cap"/>
+      <Label value="Plastic bottle cap" background="#a38e28"/>
+      <Label value="Metal bottle cap" background="#eace47"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Broken glass"/>
+      <Label value="Broken glass" background="#9ea328"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Can"/>
+      <Label value="Food Can" background="#85a328"/>
+      <Label value="Aerosol" background="#c3ea47"/>
+      <Label value="Drink can" background="#dbeaad"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Carton"/>
+      <Label value="Toilet tube" background="#6ca328"/>
+      <Label value="Other carton" background="#a1ea47"/>
+      <Label value="Egg carton" background="#cfeaad"/>
+      <Label value="Drink carton" background="#6eb714"/>
+      <Label value="Corrugated carton" background="#9fd65b"/>
+      <Label value="Meal carton" background="#d0f4a3"/>
+      <Label value="Pizza box" background="#6ca328"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Cup"/>
+      <Label value="Paper cup" background="#53a328"/>
+      <Label value="Disposable plastic cup" background="#7fea47"/>
+      <Label value="Foam cup" background="#c2eaad"/>
+      <Label value="Glass cup" background="#4cb714"/>
+      <Label value="Other plastic cup" background="#86d65b"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Food waste"/>
+      <Label value="Food waste" background="#39a328"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Glass jar"/>
+      <Label value="Glass jar" background="#28a331"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Lid"/>
+      <Label value="Plastic lid" background="#28a34a"/>
+      <Label value="Metal lid" background="#47ea74"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Other plastic"/>
+      <Label value="Other plastic" background="#28a363"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Paper"/>
+      <Label value="Magazine paper" background="#28a37d"/>
+      <Label value="Tissues" background="#47eab7"/>
+      <Label value="Wrapping paper" background="#adead7"/>
+      <Label value="Normal paper" background="#14b784"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Paper bag"/>
+      <Label value="Paper bag" background="#28a396"/>
+      <Label value="Plastified paper bag" background="#47ead9"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Plastic bag &amp; wrapper"/>
+      <Label value="Plastic film" background="#2896a3"/>
+      <Label value="Six pack rings" background="#47d9ea"/>
+      <Label value="Garbage bag" background="#ade4ea"/>
+      <Label value="Other plastic wrapper" background="#14a6b7"/>
+      <Label value="Single-use carrier bag" background="#5bc9d6"/>
+      <Label value="Polypropylene bag" background="#a3ecf4"/>
+      <Label value="Crisp packet" background="#2896a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Plastic container"/>
+      <Label value="Spread tub" background="#287da3"/>
+      <Label value="Tupperware" background="#47b7ea"/>
+      <Label value="Disposable food container" background="#add7ea"/>
+      <Label value="Foam food container" background="#1484b7"/>
+      <Label value="Other plastic container" background="#5bb0d6"/>
+      <Label value="Hard plastic bars" background="#a3dbf4"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Plastic glooves"/>
+      <Label value="Plastic glooves" background="#2863a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Plastic utensils"/>
+      <Label value="Plastic utensils" background="#284aa3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Pop tab"/>
+      <Label value="Pop tab" background="#2831a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Rope &amp; strings"/>
+      <Label value="Rope &amp; strings" background="#3928a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Scrap metal"/>
+      <Label value="Scrap metal" background="#5328a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Shoe"/>
+      <Label value="Shoe" background="#6c28a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Squeezable tube"/>
+      <Label value="Squeezable tube" background="#8528a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Straw"/>
+      <Label value="Plastic straw" background="#9e28a3"/>
+      <Label value="Paper straw" background="#e447ea"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Styrofoam piece"/>
+      <Label value="Styrofoam piece" background="#a3288e"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Unlabeled litter"/>
+      <Label value="Unlabeled litter" background="#a32874"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Cigarette"/>
+      <Label value="Cigarette" background="#a3285b"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Cloth"/>
+      <Label value="Cloth" background="#a32842"/>
+    </View>
+  </PolygonLabels>
+  <RectangleLabels name="bbox" toName="image" showInline="true" required="false" maxUsages="0" strokeWidth="3" pointSize="small" opacity="0.9">
+    <View style="marginRight: 20px">
+      <Header value="Aluminium foil"/>
+      <Label value="Aluminium foil" background="#a32828"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Battery"/>
+      <Label value="Battery" background="#a34228"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Blister pack"/>
+      <Label value="Aluminium blister pack" background="#a35b28"/>
+      <Label value="Carded blister pack" background="#ea8a47"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Bottle"/>
+      <Label value="Other plastic bottle" background="#a37428"/>
+      <Label value="Clear plastic bottle" background="#eaac47"/>
+      <Label value="Glass bottle" background="#ead3ad"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Bottle cap"/>
+      <Label value="Plastic bottle cap" background="#a38e28"/>
+      <Label value="Metal bottle cap" background="#eace47"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Broken glass"/>
+      <Label value="Broken glass" background="#9ea328"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Can"/>
+      <Label value="Food Can" background="#85a328"/>
+      <Label value="Aerosol" background="#c3ea47"/>
+      <Label value="Drink can" background="#dbeaad"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Carton"/>
+      <Label value="Toilet tube" background="#6ca328"/>
+      <Label value="Other carton" background="#a1ea47"/>
+      <Label value="Egg carton" background="#cfeaad"/>
+      <Label value="Drink carton" background="#6eb714"/>
+      <Label value="Corrugated carton" background="#9fd65b"/>
+      <Label value="Meal carton" background="#d0f4a3"/>
+      <Label value="Pizza box" background="#6ca328"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Cup"/>
+      <Label value="Paper cup" background="#53a328"/>
+      <Label value="Disposable plastic cup" background="#7fea47"/>
+      <Label value="Foam cup" background="#c2eaad"/>
+      <Label value="Glass cup" background="#4cb714"/>
+      <Label value="Other plastic cup" background="#86d65b"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Food waste"/>
+      <Label value="Food waste" background="#39a328"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Glass jar"/>
+      <Label value="Glass jar" background="#28a331"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Lid"/>
+      <Label value="Plastic lid" background="#28a34a"/>
+      <Label value="Metal lid" background="#47ea74"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Other plastic"/>
+      <Label value="Other plastic" background="#28a363"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Paper"/>
+      <Label value="Magazine paper" background="#28a37d"/>
+      <Label value="Tissues" background="#47eab7"/>
+      <Label value="Wrapping paper" background="#adead7"/>
+      <Label value="Normal paper" background="#14b784"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Paper bag"/>
+      <Label value="Paper bag" background="#28a396"/>
+      <Label value="Plastified paper bag" background="#47ead9"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Plastic bag &amp; wrapper"/>
+      <Label value="Plastic film" background="#2896a3"/>
+      <Label value="Six pack rings" background="#47d9ea"/>
+      <Label value="Garbage bag" background="#ade4ea"/>
+      <Label value="Other plastic wrapper" background="#14a6b7"/>
+      <Label value="Single-use carrier bag" background="#5bc9d6"/>
+      <Label value="Polypropylene bag" background="#a3ecf4"/>
+      <Label value="Crisp packet" background="#2896a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Plastic container"/>
+      <Label value="Spread tub" background="#287da3"/>
+      <Label value="Tupperware" background="#47b7ea"/>
+      <Label value="Disposable food container" background="#add7ea"/>
+      <Label value="Foam food container" background="#1484b7"/>
+      <Label value="Other plastic container" background="#5bb0d6"/>
+      <Label value="Hard plastic bars" background="#a3dbf4"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Plastic glooves"/>
+      <Label value="Plastic glooves" background="#2863a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Plastic utensils"/>
+      <Label value="Plastic utensils" background="#284aa3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Pop tab"/>
+      <Label value="Pop tab" background="#2831a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Rope &amp; strings"/>
+      <Label value="Rope &amp; strings" background="#3928a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Scrap metal"/>
+      <Label value="Scrap metal" background="#5328a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Shoe"/>
+      <Label value="Shoe" background="#6c28a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Squeezable tube"/>
+      <Label value="Squeezable tube" background="#8528a3"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Straw"/>
+      <Label value="Plastic straw" background="#9e28a3"/>
+      <Label value="Paper straw" background="#e447ea"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Styrofoam piece"/>
+      <Label value="Styrofoam piece" background="#a3288e"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Unlabeled litter"/>
+      <Label value="Unlabeled litter" background="#a32874"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Cigarette"/>
+      <Label value="Cigarette" background="#a3285b"/>
+    </View>
+    <View style="marginRight: 20px">
+      <Header value="Cloth"/>
+      <Label value="Cloth" background="#a32842"/>
+    </View>
+  </RectangleLabels>
+  <Header value="Scene Classification"/>
+  <Choices name="scene" toName="image" choice="single">
+    <Choice value="Clean"/>
+    <Choice value="Indoor, Man-made"/>
+    <Choice value="Pavement"/>
+    <Choice value="Sand, Dirt, Pebbles"/>
+    <Choice value="Trash"/>
+    <Choice value="Vegetation"/>
+    <Choice value="Water"/>
+  </Choices>
+</View>

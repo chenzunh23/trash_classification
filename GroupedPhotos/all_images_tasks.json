@@ -1,0 +1,1802 @@
+[
+  {
+    "data": {
+      "image": "data/local-files?d=Group_1/1_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_1/1_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_1/1_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_1/1_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_2/2_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_2/2_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_2/2_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_2/2_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_3/3_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_3/3_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_3/3_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_3/3_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_4/4_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_4/4_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_4/4_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_4/4_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_5/5_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_5/5_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_5/5_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_5/5_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_6/6_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_6/6_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_6/6_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_6/6_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_7/7_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_7/7_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_7/7_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_7/7_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_8/8_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_8/8_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_8/8_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_8/8_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_9/9_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_9/9_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_9/9_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_9/9_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_10/10_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_10/10_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_10/10_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_10/10_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_11/11_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_11/11_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_11/11_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_11/11_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_12/12_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_12/12_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_12/12_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_12/12_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_13/13_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_13/13_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_13/13_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_13/13_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_14/14_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_14/14_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_14/14_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_14/14_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_15/15_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_15/15_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_15/15_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_15/15_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_16/16_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_16/16_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_16/16_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_16/16_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_17/17_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_17/17_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_17/17_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_17/17_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_18/18_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_18/18_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_18/18_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_18/18_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_19/19_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_19/19_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_19/19_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_19/19_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_20/20_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_20/20_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_20/20_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_20/20_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_21/21_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_21/21_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_21/21_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_21/21_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_22/22_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_22/22_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_22/22_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_22/22_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_23/23_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_23/23_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_23/23_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_23/23_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_24/24_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_24/24_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_24/24_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_24/24_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_25/25_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_25/25_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_25/25_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_25/25_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_26/26_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_26/26_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_26/26_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_26/26_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_27/27_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_27/27_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_27/27_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_27/27_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_28/28_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_28/28_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_28/28_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_28/28_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_29/29_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_29/29_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_29/29_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_29/29_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_30/30_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_30/30_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_30/30_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_30/30_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_31/31_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_31/31_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_31/31_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_31/31_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_32/32_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_32/32_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_32/32_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_32/32_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_33/33_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_33/33_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_33/33_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_33/33_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_34/34_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_34/34_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_34/34_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_34/34_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_35/35_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_35/35_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_35/35_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_35/35_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_36/36_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_36/36_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_36/36_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_36/36_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_37/37_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_37/37_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_37/37_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_37/37_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_38/38_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_38/38_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_38/38_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_38/38_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_39/39_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_39/39_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_39/39_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_39/39_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_40/40_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_40/40_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_40/40_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_40/40_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_41/41_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_41/41_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_41/41_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_41/41_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_42/42_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_42/42_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_42/42_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_42/42_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_43/43_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_43/43_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_43/43_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_43/43_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_44/44_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_44/44_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_44/44_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_44/44_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_45/45_0.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_45/45_1.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_45/45_2.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  },
+  {
+    "data": {
+      "image": "data/local-files?d=Group_45/45_3.jpg",
+      "metadata": {
+        "width": 4096,
+        "height": 3072
+      }
+    },
+    "annotations": []
+  }
+]

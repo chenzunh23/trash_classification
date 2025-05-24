@@ -1,0 +1,46 @@
+<View>
+  <!-- 图像显示区域 -->
+  <Image name="image" value="$image" zoom="true"/>
+  
+  <!-- 物体标注工具（矩形框） -->
+  <Header value="Label polygon regions or bounding boxes"/>
+  <RectangleLabels name="bbox" toName="image">
+    <!-- 按超类分组展示标签 -->
+    <Label value="Aluminium foil" background="#FF0000"/>
+    <Label value="Battery" background="#00FF00"/>
+    
+    <!-- Blister Pack 子类 -->
+    <Label value="Aluminium blister pack" background="#0000FF"/>
+    <Label value="Carded blister pack" background="#FF00FF"/>
+    
+    <!-- 瓶子类 -->
+    <Label value="Other plastic bottle" background="#FFFF00"/>
+    <Label value="Clear plastic bottle" background="#00FFFF"/>
+    <Label value="Glass bottle" background="#FFA500"/>
+    
+    <!-- 新增的 2 个标签 -->
+    <Label value="Cloth" background="#800080"/>
+    <Label value="Hard plastic bars" background="#008000"/>
+    
+    <!-- 其他所有标签...（按相同模式添加） -->
+    
+  </RectangleLabels>
+
+  <!-- 场景分类标签 -->
+  <Header value="Select scene type"/>
+  <Choices name="scene" toName="image" choice="single">
+    <Choice value="Clean"/>
+    <Choice value="Indoor, Man-made"/>
+    <Choice value="Pavement"/>
+    <Choice value="Sand, Dirt, Pebbles"/>
+    <Choice value="Trash"/>
+    <Choice value="Vegetation"/>
+    <Choice value="Water"/>
+  </Choices>
+
+  <!-- 高级标注工具（可选） -->
+  <Header value="Tools"/>
+  <PolygonLabels name="polygon" toName="image">
+    <Label value="Special Shape" background="#FF0000"/>
+  </PolygonLabels>
+</View>
