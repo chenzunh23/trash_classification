@@ -2,5 +2,10 @@
 data/YOLO_data/images/
 data/YOLO_data/labels/
 data/YOLO_data/runs/
+data/YOLO_data/_pycache_/
 data/TACO_data/images/
 data/TACO_data/labels/
+output/
+runs/
+data/TACO_data/batch_*/
+data/TACO_data/unofficial/
