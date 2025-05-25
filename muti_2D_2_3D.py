@@ -19,8 +19,7 @@ image_folder = 'GroupedPhotos'
 focal_length = 5.71  # mm
 image_width = 4096
 image_height = 3072
-cameras_position = [(0, -75, 50), (45, -45, 50),
-                    (0, 75, 50), (-45, 45, 50)]  # cm
+cameras_position =  [(-45, 45, 50), (0, 75, 50), (45, -45, 50), (0, -75, 50)]# cm
 cameras_rotate_matrix = [
     [[-1/np.sqrt(2), -1/np.sqrt(2), 0],
      [1/2, -1/2, 1/np.sqrt(2)],

@@ -71,6 +71,6 @@ names:
   59: Cigarette
   60: Cloth
   61: Hard plastic bars
-
+# For TACO, remove the last two classes
 # number of classes
 nc: 62
