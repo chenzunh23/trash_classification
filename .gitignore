@@ -1,0 +1,6 @@
+*.pt
+data/YOLO_data/images/
+data/YOLO_data/labels/
+data/YOLO_data/runs/
+data/TACO_data/images/
+data/TACO_data/labels/

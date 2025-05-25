@@ -2,7 +2,7 @@ import os
 import json
 
 # root directory
-LOCAL_FILES_ROOT = "D:/AI_courses/Computer_Vision/trash_classification/GroupedPhotos"
+LOCAL_FILES_ROOT = "./GroupedPhotos"
 
 num_groups = 45
 num_images_per_group = 4
