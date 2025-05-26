@@ -18,6 +18,8 @@ python>=3.8\
 torch>=1.8
 
 ## Usage
+### Creating datasets
+You can create a dataset with the same format using files in the folder `labeling_utils`. The scripts can generate labeling interface configuration xml files for [Label Studio](https://labelstud.io/), and process the exported COCO-format JSON files into TACO format.
 ### Training models
 To train models on our dataset, call
 ```
