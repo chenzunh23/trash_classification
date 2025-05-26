@@ -37,4 +37,4 @@ We also support visualization of reconstructed 3D objects from a particular grou
 ```
 python muti_2D_2_3D.py --group group_num --predict --model model.pt (predict 3D objects with models)
 ```
-To run experiments using Mask-RCNN and DeepLabV3+, check out https://github.com/dbash/zerowaste, our experiments are run on this platform.
+To run experiments using Mask-RCNN and DeepLabV3+, check out https://github.com/dbash/zerowaste, our experiments in `logs/` were performed on this codebase.
