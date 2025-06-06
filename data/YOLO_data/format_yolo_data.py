@@ -158,4 +158,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     if args.yolo_labels != "":
         yolo_to_taco(args.taco_format, args.yolo_labels)
-    format_yolo_data(args.input_format)
+    # format_yolo_data(args.input_format)

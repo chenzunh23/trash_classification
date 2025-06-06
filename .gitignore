@@ -9,3 +9,4 @@ output/
 runs/
 data/TACO_data/batch_*/
 data/TACO_data/unofficial/
+_pycache_/
